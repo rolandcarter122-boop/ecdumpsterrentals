@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What exactly is a weight limit and why is it so important?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every roll off truck has a legal maximum weight it can carry on public roads, set by the Department of Transportation for safety. Our weight limits are set generously to allow you to fill the dumpster with normal debris, but exceeding them can create an unsafe load that we cannot legally haul.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is putting plywood on my driveway before delivery really necessary?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strongly recommend it. A full roll off dumpster container can weigh several tons. While our drivers are extremely careful, placing plywood down creates a buffer that distributes the weight and provides the best possible protection for your driveway surface against scratches or cracks.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Why can't you guarantee an exact delivery time, like 10:00 AM sharp?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Because we are a logistics company operating in the real world. A driver's route can be affected by traffic, delays at the landfill, or unforeseen issues at a previous customer's site. We provide a narrow, reliable delivery window (e.g., "between 8 AM and 11 AM") to give you an accurate timeframe while accounting for these variables.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What actually happens if I accidentally throw a prohibited item in the bin?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The landfills have spotters and scan loads for hazardous materials. If a prohibited item like a tire or a TV is found in our load, the landfill charges us a significant penalty fee. Unfortunately, this fee, along with an administrative charge, must be passed on to you. It's always best to ask us first if you're unsure.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much space do you need to safely place a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You need a clear, flat, and stable surface. For a standard roll off rental, the truck needs about 50-60 feet of straight-line clearance to back in. The spot itself should be at least 10-12 feet wide and have no low-hanging tree branches or power lines overhead.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
